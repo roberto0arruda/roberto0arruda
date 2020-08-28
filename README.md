@@ -1,14 +1,18 @@
-### Hi there 👋
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Roberto!
 
-**roberto0arruda/roberto0arruda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer at [NGestor](https://www.ngestor.net.br/quemsomos) <br>
+🏡 Brazilian, Based in Manaus, AM 🌎
 
-Here are some ideas to get you started:
+### You can find me on
+<p>
+  <a href="https://www.linkedin.com/in/roberto0arruda/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
+  </a>
+  
+  <br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  <a href="https://twitter.com/roberto0arruda">
+    <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white">
+  </a>
+  🐦
+</p>
