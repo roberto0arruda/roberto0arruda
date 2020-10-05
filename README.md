@@ -4,13 +4,15 @@
 
 # ![visitors](https://visitor-badge.glitch.me/badge?page_id=roberto0arruda.roberto0arruda)
 
+![](https://github-readme-stats.vercel.app/api?username=roberto0arruda&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roberto0arruda&layout=compact&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 ___
 💻 I'm a Web Developer at [NGestor](https://www.ngestor.net.br/quemsomos)
 
 🏡 I'm a Brazilian, Based in Manaus, AM 🌎
 ___
 
-## Tech Stack :computer: :-P
+## Tech Stack :computer:
 
 <table>
   <tbody>
@@ -52,8 +54,6 @@ ___
     </tr>
   </tbody>
 </table>
-
-![Roberto Arruda Github Stats](https://github-readme-stats.vercel.app/api?username=roberto0arruda&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ___
 <h2 align="center">You can find me on</h2>
