@@ -4,10 +4,14 @@
 
 # ![visitors](https://visitor-badge.glitch.me/badge?page_id=roberto0arruda.roberto0arruda)
 
-![](https://github-readme-stats.vercel.app/api?username=roberto0arruda&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roberto0arruda&layout=compact&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<div>
+  <img height='180rem' src='https://github-readme-stats.vercel.app/api?username=roberto0arruda&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515'>
+  <img height='180rem' src='https://github-readme-stats.vercel.app/api/top-langs/?username=roberto0arruda&layout=compact&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515'>
+  <img height='153rem' src='https://github-readme-stats.vercel.app/api/wakatime?username=roberto0arruda&layout=compact&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515'>
+</div>
 
 ___
-💻 I'm a Web Developer at [NGestor](https://www.ngestor.net.br/quemsomos)
+💻 I'm a Software Engineer at [Bitis](https://www.bitis.com.br/)
 
 🏡 I'm a Brazilian, Based in Manaus, AM 🌎
 ___
@@ -18,20 +22,20 @@ ___
   <tbody>
     <tr>
       <td width="25%" align="center">
-        <span><b><center>JavaScript</center></b></span>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><b><center>Vue</center></b></span>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+        <span><b><center>PHP</center></b></span>
+        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
       <td width="25%" align="center">
         <span><b><center>Laravel</center></b></span>
         <img height=65px src="https://cdn.svgporn.com/logos/laravel.svg">
       </td>
       <td width="25%" align="center">
-        <span><b><center>MySQL</center></b></span>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+        <span><b><center>JavaScript</center></b></span>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b><center>Vue</center></b></span>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
     </tr>
     <tr>
@@ -50,6 +54,12 @@ ___
       <td width="25%" align="center">
         <span><b><center>VS Code</center></b></span>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+    </tr>
+    <tr>
+      <td width="25%" align="center">
+        <span><b><center>MySQL</center></b></span>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
     </tr>
   </tbody>
