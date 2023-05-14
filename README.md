@@ -1,6 +1,15 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Roberto Arruda!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Roberto Arruda! 👨🏻‍💻
 </h1>
+
+<h4 align="center">
+
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/roberto0arruda)](https://www.facebook.com/roberto0arruda/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/roberto0arruda/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/roberto0arruda)](https://www.linkedin.com/in/roberto0arruda/)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/roberto0arruda)
+
+</h4>
 
 ___
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=roberto0arruda.roberto0arruda)
@@ -9,13 +18,10 @@ ___
 💻 I'm a Software Engineer at [Bitis](https://www.bitis.com.br/)
 
 🏡 I'm a Brazilian, Based in Manaus, AM 🌎
-
 ___
-<div>
-  <img height='180rem' src='https://github-readme-stats.vercel.app/api?username=roberto0arruda&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515'>
-  <img height='180rem' src='https://github-readme-stats.vercel.app/api/top-langs/?username=roberto0arruda&layout=compact&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515'>
-  <img height='154rem' src='https://github-readme-stats.vercel.app/api/wakatime?username=roberto0arruda&layout=compact&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515'>
-</div>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=roberto0arruda&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roberto0arruda&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=roberto0arruda&theme=nord_dark) |
+| :-: | :-: | :-: |
 
 ___
 ## Tech Stack :computer:
@@ -66,19 +72,3 @@ ___
     </tr>
   </tbody>
 </table>
-
-___
-<h2 align="center">You can find me on</h2>
-<h3 align="center"> Other Accounts 📫 </h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/roberto0arruda/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
-  </a>
-  <a href="https://twitter.com/roberto0arruda">
-    <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white">
-  </a>
-  <a href="https://instagram.com/smrtdvlpr">
-    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
