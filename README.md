@@ -29,57 +29,47 @@ ___
 <table>
   <tbody>
     <tr>
-      <td width="25%" align="center">
+      <td align="center">
         <span><b><center>PHP</center></b></span>
         <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
-      <td width="25%" align="center">
+      <td align="center">
         <span><b><center>Laravel</center></b></span>
         <img height=65px src="https://cdn.svgporn.com/logos/laravel.svg">
       </td>
-      <td width="25%" align="center">
+      <td align="center">
         <span><b><center>JavaScript</center></b></span>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="25%" align="center">
+      <td align="center">
         <span><b><center>Vue</center></b></span>
         <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
-    </tr>
-    <tr>
-      <td width="25%" align="center">
-        <span><b><center>Git</center></b></span>
-        <img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png">
-      </td>
-      <td width="25%" align="center">
-        <span><b><center>Docker</center></b></span>
-        <img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU">
-      </td>
-      <td width="25%" align="center">
-        <span><b><center>Linux System</center></b></span>
-        <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png">
-      </td>
-      <td width="25%" align="center">
-        <span><b><center>VS Code</center></b></span>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      <td align="center">
+        <span><b><center>Github Actions</center></b></span>
+        <img height="64px" src="https://cdn.svgporn.com/logos/github-actions.svg">
       </td>
     </tr>
     <tr>
-      <td width="25%" align="center">
+      <td align="center">
         <span><b><center>MySQL</center></b></span>
         <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
-      <td width="25%" align="center">
+      <td align="center">
         <span><b><center>Postgres</center></b></span>
         <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
-      <td width="25%" align="center">
+      <td align="center">
+        <span><b><center>Git</center></b></span>
+        <img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png">
+      </td>
+      <td align="center">
+        <span><b><center>Docker</center></b></span>
+        <img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU">
+      </td>
+      <td align="center">
         <span><b><center>AWS</center></b></span>
         <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><b><center>Github Actions</center></b></span>
-        <img height="64px" src="https://cdn.svgporn.com/logos/github-actions.svg">
       </td>
     </tr>
   </tbody>
