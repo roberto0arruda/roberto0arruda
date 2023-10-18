@@ -12,16 +12,16 @@
 </h4>
 
 ___
-![visitors](https://visitor-badge.glitch.me/badge?page_id=roberto0arruda.roberto0arruda)
-
-___
-💻 I'm a Software Engineer at [Bitis](https://www.bitis.com.br/)
+💻 I'm a Software Engineer
 
 🏡 I'm a Brazilian, Based in Manaus, AM 🌎
 ___
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=roberto0arruda&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roberto0arruda&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=roberto0arruda&theme=nord_dark) |
 | :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roberto0arruda&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=roberto0arruda&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+|:------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 
 ___
 ## Tech Stack :computer:
@@ -68,6 +68,18 @@ ___
       <td width="25%" align="center">
         <span><b><center>MySQL</center></b></span>
         <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b><center>Postgres</center></b></span>
+        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b><center>AWS</center></b></span>
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b><center>Github Actions</center></b></span>
+        <img height="64px" src="https://cdn.svgporn.com/logos/github-actions.svg">
       </td>
     </tr>
   </tbody>
