@@ -18,49 +18,16 @@ ___
 ___
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=roberto0arruda&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roberto0arruda&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=roberto0arruda&theme=nord_dark) |
-| :-: | :-: | :-: |
+|:-----------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roberto0arruda&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=roberto0arruda&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-|:------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|:---------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 
 ___
+
 ## Tech Stack :computer:
 
-<table>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
-      </td>
-      <td align="center">
-        <img height=65px src="https://cdn.svgporn.com/logos/laravel.svg">
-      </td>
-      <td align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
-      </td>
-      <td align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/docker.svg">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
-      </td>
-      <td align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
-      </td>
-      <td align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/github-actions.svg">
-      </td>
-      <td align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
-      </td>
-      <td align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+|  <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">  |   <img height=65px src="https://cdn.svgporn.com/logos/laravel.svg">    |   <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">   | <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg"> | <img height="64px" src="https://cdn.svgporn.com/logos/docker.svg"> |
+|:-----------------------------------------------------------------:|:----------------------------------------------------------------------:|:--------------------------------------------------------------------------:|:---------------------------------------------------------------:|:------------------------------------------------------------------:|
+| <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg"> | <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg"> | <img height="64px" src="https://cdn.svgporn.com/logos/github-actions.svg"> | <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg"> |  <img height="64px" src="https://cdn.svgporn.com/logos/git.svg">   |
+
